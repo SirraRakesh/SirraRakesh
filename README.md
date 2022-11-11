@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @SirraRakesh
+-    I'm learning MERN Full stack development....
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning basic libraries of ML And AI
 - 💞️ I’m looking to collaborate on AI/ML team
